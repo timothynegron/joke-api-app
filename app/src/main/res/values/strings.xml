@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LabWebServiceAndAsyncTask</string>
+    <string name="call_web_service">Call Web Service</string>
+</resources>
